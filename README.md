@@ -1,6 +1,6 @@
-## Hi there 👋
+## 👋 Hi, I'm Abhijeet Yadav 
 
- Hi, I'm Abhijeet Yadav — a passionate Computer Science and Engineering student with a focus on Cybersecurity. I enjoy solving complex problems, writing clean code, and building efficient, secure software solutions.
+👋A passionate Computer Science and Engineering student with a focus on Cybersecurity. I enjoy solving complex problems, writing clean code, and building efficient, secure software solutions.
 
 🔐 Interested in Cybersecurity: Exploring the latest in cybersecurity techniques and practices to create safe digital environments.
 
@@ -8,10 +8,12 @@
 
 Languages: Java, JavaScript, Python, C, HTML, CSS
 Tools: Git, GitHub, VS Code, Linux
+🌐 Projects: I'm working on some new projects, which you can check out in my repositories.
 
-💼 Professional Portfolio: Feel free to connect with me on LinkedIn [https://www.linkedin.com/in/abhijeet-yadav-729333291/].
+📧 Contact: Reach me via email at erabhijeetyadav09@gmail.com 
 
-You are free to contact me directly at erabhijeetyadav09@gmail.com
+💼 Professional Portfolio: Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/abhijeet-yadav-729333291/).
+
 Let’s collaborate to build something great!
 
 
