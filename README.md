@@ -10,8 +10,8 @@ Languages: Java, JavaScript, Python, C, HTML, CSS
 Tools: Git, GitHub, VS Code, Linux
 
 💼 Professional Portfolio: Feel free to connect with me on LinkedIn [https://www.linkedin.com/in/abhijeet-yadav-729333291/].
-    You are free to contact me directly at erabhijeetyadav09@gmail.com
 
+You are free to contact me directly at erabhijeetyadav09@gmail.com
 Let’s collaborate to build something great!
 
 
