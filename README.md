@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**AbhijeetYadav09/AbhijeetYadav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Hi, I'm Abhijeet Yadav — a passionate Computer Science and Engineering student with a focus on Cybersecurity. I enjoy solving complex problems, writing clean code, and building efficient, secure software solutions.
 
-Here are some ideas to get you started:
+🔐 Specializing in Cybersecurity: Exploring the latest in cybersecurity techniques and practices to create safe digital environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack:
+
+Languages: Java, JavaScript, Python, C, HTML, CSS
+Tools: Git, GitHub, VS Code, Linux
+🌐 Projects: I've worked on a variety of projects, including an Online Job Portal and more, which you can check out in my repositories.
+
+💼 Professional Portfolio: Feel free to connect with me on LinkedIn [https://www.linkedin.com/in/abhijeet-yadav-729333291/].
+
+Let’s collaborate to build something great!
+
+
