@@ -8,9 +8,7 @@ A passionate Computer Science and Engineering student with a focus on Web develo
 
 Languages: Java, JavaScript, Python, C, HTML, CSS
 
-Tools: Git, GitHub, VS Code, Linux
-
-🌐 Projects: I'm working on some new projects, which you can check out in my repositories.
+Tools: Git, GitHub, VS Code, Linux, Visual Studio
 
 📧 Contact: Reach me via email at erabhijeetyadav09@gmail.com 
 
