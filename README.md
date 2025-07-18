@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Abhijeet Yadav 
 
-A passionate Computer Science and Engineering student with a focus on Web development and Cybersecurity. I enjoy solving complex problems, writing clean code, and building efficient, secure software solutions.
+A passionate Computer Science Engineer with a focus on Web development and Cybersecurity. I enjoy solving complex problems, writing clean code, and building efficient, secure software solutions.
 
 🔐 Interested in Cybersecurity: Exploring the latest in cybersecurity techniques and practices to create safe digital environments.
 
