@@ -1,4 +1,5 @@
-##👨‍💻 Abhijeet Yadav
+👨‍💻 Abhijeet Yadav
+
 Full-Stack Developer | Software Engineer 
 A passionate Computer Science Engineer with expertise in building end-to-end digital solutions. I excel at transforming complex problems into scalable, efficient, and user-friendly applications through clean architecture and modern development practices. Committed to continuous learning and contributing to impactful technology.
 
