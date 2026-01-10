@@ -1,17 +1,24 @@
-## 👋 Hi, I'm Abhijeet Yadav 
+👨‍💻 Abhijeet Yadav
+Full-Stack Developer | Software Engineer 
+A passionate Computer Science Engineer with expertise in building end-to-end digital solutions. I excel at transforming complex problems into scalable, efficient, and user-friendly applications through clean architecture and modern development practices. Committed to continuous learning and contributing to impactful technology.
 
-"A passionate Computer Science Engineer specializing in Web Development. I love solving complex problems, writing clean and efficient code, and building scalable, user-friendly applications. Open-source enthusiast and always learning!"
+🛠 Technical Expertise
 
-💻 Tech Stack:
+Languages:
+ JavaScript • Python • C • C# • HTML • CSS
 
-Languages: Java, JavaScript, Python, C, HTML, CSS
+Databases:
+PostgreSQL • MongoDB
 
-Tools: Git, GitHub, VS Code, Linux, Visual Studio
+Cloud & DevOps:
+Azure • Docker
 
-📧 Contact: Reach me via email at erabhijeetyadav09@gmail.com 
+Development Tools:
+Git • GitHub • VS Code • Visual Studio • Linux • Radzen • Syncfusion
 
-💼 Professional Portfolio: Feel free to connect with me on LinkedIn https://www.linkedin.com/in/abhijeet-yadav-729333291/
+📬 Connect With Me
+📧 Email: erabhijeetyadav09@gmail.com
+💼 LinkedIn: linkedin.com/in/abhijeet-yadav-729333291
 
-Let’s collaborate to build something great!
 
 
