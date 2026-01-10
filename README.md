@@ -6,19 +6,25 @@ A passionate Computer Science Engineer with expertise in building end-to-end dig
 🛠 Technical Expertise
 
 Languages:
+
  JavaScript • Python • C • C# • HTML • CSS
 
 Databases:
+
 PostgreSQL • MongoDB
 
 Cloud & DevOps:
+
 Azure • Docker
 
 Development Tools:
+
 Git • GitHub • VS Code • Visual Studio • Linux • Radzen • Syncfusion
 
 📬 Connect With Me
+
 📧 Email: erabhijeetyadav09@gmail.com
+
 💼 LinkedIn: linkedin.com/in/abhijeet-yadav-729333291
 
 
