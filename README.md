@@ -15,7 +15,7 @@ Cloud & DevOps:
 Azure • Docker
 
 Development Tools:  
-Git • GitHub • VS Code • Visual Studio • Linux • Radzen • Syncfusion
+Git • GitHub • VS Code • Visual Studio • Linux 
 
 📬 Connect With Me  
 📧 Email: erabhijeetyadav09@gmail.com      
