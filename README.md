@@ -11,8 +11,8 @@ Languages:
 Databases: 
 PostgreSQL • MongoDB
 
-Cloud & DevOps: 
-Azure • Docker
+Cloud : 
+Azure 
 
 Development Tools:  
 Git • GitHub • VS Code • Visual Studio • Linux 
