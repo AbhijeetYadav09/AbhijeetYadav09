@@ -6,7 +6,7 @@ A passionate Computer Science Engineer with expertise in building end-to-end dig
 🛠 Technical Expertise
 
 Languages: 
- JavaScript • Python • C • C# • HTML • CSS
+ JavaScript • Python • C • C++ • C# • HTML • CSS
 
 Databases: 
 MySQL • MongoDB
