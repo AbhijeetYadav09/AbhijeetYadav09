@@ -9,7 +9,7 @@ Languages:
  JavaScript • Python • C • C# • HTML • CSS
 
 Databases: 
-PostgreSQL • MongoDB
+MySQL • MongoDB
 
 Cloud : 
 Azure 
